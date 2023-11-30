@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #fff;
+  }
+  
+  #cliqueAquiButton {
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #mensagemContainer {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #mensagem {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
